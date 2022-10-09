@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-09T19:40:13+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">InfosinBugs</title><author><name>Paco Diz Ureña</name><email>pacodiz1215@gmail.com</email></author><entry><title type="html">Windows | 2019 Server</title><link href="http://localhost:4000/posts/the-purpose-of-education/" rel="alternate" type="text/html" title="Windows | 2019 Server" /><published>2022-10-07T00:00:00+02:00</published><updated>2022-10-07T00:00:00+02:00</updated><id>http://localhost:4000/posts/the-purpose-of-education</id><content type="html" xml:base="http://localhost:4000/posts/the-purpose-of-education/"><![CDATA[<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Windows_Server_2019_logo.svg/1024px-Windows_Server_2019_logo.svg.png" alt="" /></p>
+
+<p>Windows Server 2019 es un sistema operativo producido por Microsoft para su familia de servidores. Microsoft lo anunció el 20 de marzo de 2018, y la primera vista previa Windows Insider fue lanzada el mismo día. Se lanzó comercialmente el 2 de octubre de 2018.</p>
+
+<p>Al igual que su predecesor, Windows Server 2019 tiene solo dos versiones basadas en núcleo: Standard y Datacenter, siendo este último el que ofrece mayores prestaciones como SMB Direct o características que no están disponibles en Windows Server 2019 Standard y Storage Spaces Direct, y también un mayor soporte a máquinas virtuales con Hyper-V, que está disponible en las dos versiones. También cuenta con una versión para servidores especializados llamada Essentials con límite de usuarios y dispositivos.</p>
+
+<p>El instalador ofrece la posibilidad de instalar en modo Core (interfaz de usuario mínima) para administración remota, o Experiencia de escritorio (interfaz de usuario completa) para administración local.</p>]]></content><author><name>Paco Diz Ureña</name><email>pacodiz1215@gmail.com</email></author><category term="windows" /><category term="server" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Linux | Debian 11 Bullseye</title><link href="http://localhost:4000/posts/jekyll-markdown/" rel="alternate" type="text/html" title="Linux | Debian 11 Bullseye" /><published>2022-10-07T00:00:00+02:00</published><updated>2022-10-07T00:00:00+02:00</updated><id>http://localhost:4000/posts/jekyll-markdown</id><content type="html" xml:base="http://localhost:4000/posts/jekyll-markdown/"><![CDATA[<h2 id="debian-11-bullseye">Debian 11 (Bullseye)</h2>
+
+<p>Debian 11.5 se publicó el 10 de septiembre de 2022. Debian 11.0 se publicó inicialmente el 14 de agosto de 2021. Esta versión incluye muchos cambios importantes, que se describen en nuestra nota de prensa y en las notas de publicación.</p>
+
+<p>Para obtener e instalar Debian, consulte la página con información para la instalación y la guía de instalación. Para actualizar desde una versión anterior de Debian, consulte las instrucciones incluidas en las notas de publicación.</p>
+
+<p>Arquitecturas soportadas cuando se publicó inicialmente bullseye:</p>
+
+<p>PC de 64 bits (amd64)
+ARM de 64 bits (AArch64)
+EABI ARM (armel)
+ABI ARM de punto flotante (armhf)
+PC de 32 bits (i386)
+MIPS («little endian»)
+MIPS de 64 bits («little endian»)
+Procesadores POWER
+IBM System z
+En contra de nuestros deseos, puede haber algunos problemas en esta versión, a pesar de haber sido declarada estable. Hemos hecho una lista de los principales problemas conocidos, y siempre puede informarnos de otros.</p>
+
+<p>Por último, pero no menos importante, tenemos una lista de las personas que han contribuido a hacer posible esta publicación.</p>]]></content><author><name>Paco Diz Ureña</name><email>pacodiz1215@gmail.com</email></author><category term="linux" /><category term="debian" /><category term="bullseye" /><summary type="html"><![CDATA[Debian 11 (Bullseye)]]></summary></entry></feed>
